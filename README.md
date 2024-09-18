@@ -15,7 +15,7 @@ Here are some of the key projects I've worked on:
 **Tools**: Python, Scikit-learn, Pandas, Matplotlib  
 **Description**: A machine learning model that predicts stock prices based on historical data. I explored various models such as Random Forest, Linear Regression, and LSTM for forecasting.
 
-[View Project](projects/stock_price_prediction)
+[View Project](data-science-portfolio/projects/stock_price_prediction)
 
 ---
 
@@ -23,7 +23,7 @@ Here are some of the key projects I've worked on:
 **Tools**: Python, PyPortfolioOpt, Pandas  
 **Description**: A portfolio optimization project where I applied modern portfolio theory to optimize the asset allocation in a stock portfolio based on risk and return.
 
-[View Project](projects/portfolio_optimization)
+[View Project](data-science-portfolio/projects/portfolio_optimization)
 
 ---
 
@@ -31,7 +31,7 @@ Here are some of the key projects I've worked on:
 **Tools**: Python, ARIMA, Statsmodels  
 **Description**: A time series analysis and forecasting project aimed at predicting store sales using ARIMA models and exploring seasonality and trends.
 
-[View Project](projects/store_sales_forecasting)
+[View Project](data-science-portfolio/projects/store_sales_forecasting)
 
 ## Contact
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/christopher-g-mumford/) or [Email](mailto:ChrisMumford1993@gmail.com).
