@@ -34,5 +34,5 @@ Here are some of the key projects I've worked on:
 [View Project](projects/store_sales_forecasting)
 
 ## Contact
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile) or [Email](mailto:youremail@example.com).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/christopher-g-mumford/) or [Email](mailto:ChrisMumford1993@gmail.com).
 
