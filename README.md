@@ -15,38 +15,35 @@ Cloud & Big Data: AWS, Google Cloud, Spark.
 ## Projects
 Here’s an overview of some of the key projects in my portfolio. Each project includes the code, data, and detailed explanations of the steps involved.
 
-### 1. Stock Price Prediction Using Machine Learning
-Skills: Time Series Analysis, Machine Learning, Feature Engineering
-Tools: Python, Scikit-learn, ARIMA, LSTM, Pandas, Alpha Vantage API
-Description: Developed a machine learning model to predict stock prices based on historical data. Explored various models such as Random Forest, ARIMA, and LSTM for forecasting future stock prices.
-Highlights:
+### 1. Stock Price Prediction using Machine Learning
+**Tools**: Python, Scikit-learn, Pandas, Matplotlib  
+**Description**: A machine learning model that predicts stock prices based on historical data. I explored various models such as Random Forest, Linear Regression, and LSTM for forecasting.
 
-Collected stock data via the Alpha Vantage API.
-Implemented feature engineering for trend and seasonality.
-Compared model performance (RMSE, R²) and visualized predictions.
-View Project
+[View Project](data-science-portfolio/projects/stock_price_prediction)
+
+---
 
 ### 2. Quantitative Portfolio Optimization
-Skills: Financial Modeling, Risk Management, Portfolio Optimization
-Tools: Python, PyPortfolioOpt, NumPy, Matplotlib
-Description: Used Modern Portfolio Theory (MPT) to optimize a stock portfolio. The goal was to maximize returns for a given level of risk or minimize risk for a specified return.
-Highlights:
+**Tools**: Python, PyPortfolioOpt, Pandas  
+**Description**: A portfolio optimization project where I applied modern portfolio theory to optimize the asset allocation in a stock portfolio based on risk and return.
 
-Calculated risk-adjusted returns and generated an efficient frontier.
-Implemented Monte Carlo simulations to simulate portfolio returns.
-Visualized optimal portfolios based on risk preferences.
-View Project
+[View Project](data-science-portfolio/projects/portfolio_optimization)
+
+---
 
 ### 3. Time Series Forecasting for Store Sales
-Skills: Time Series Analysis, Forecasting, Feature Engineering
-Tools: Python, ARIMA, Facebook Prophet, Pandas
-Description: Built a time series forecasting model to predict store sales based on historical sales data. Applied ARIMA and Prophet models to account for seasonality, trends, and holidays.
-Highlights:
-
+**Tools**: Python, ARIMA, Statsmodels  
+**Description**: A time series analysis and forecasting project aimed at predicting store sales using ARIMA models and exploring seasonality and trends.
 Conducted time series decomposition to identify seasonality and trends.
 Compared model performance (RMSE, MAPE) across multiple forecasting models.
 Visualized predictions with historical sales.
-View Project
+
+[View Project](data-science-portfolio/projects/store_sales_forecasting)
+
+## Contact
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/christopher-g-mumford/) or [Email](mailto:ChrisMumford1993@gmail.com).
+
+
 
 ### 4. Credit Risk Analysis and Prediction
 Skills: Classification, Risk Management, Feature Engineering
@@ -68,6 +65,7 @@ Highlights:
 Performed web scraping to collect real estate data.
 Implemented regression models (Linear Regression, Decision Trees, Random Forest).
 Evaluated model performance using RMSE, MAE, and R².
+
 View Project
 
 ### 6. Algorithmic Trading Strategy
@@ -79,6 +77,7 @@ Highlights:
 Developed a technical trading strategy based on popular financial indicators.
 Backtested the strategy using Backtrader.
 Calculated performance metrics like Sharpe Ratio and drawdowns.
+
 View Project
 
 ### 7. Data Visualization Dashboard (Power BI)
@@ -90,8 +89,10 @@ Highlights:
 Cleaned and transformed data using SQL and Python.
 Built visualizations such as bar charts, line graphs, and KPIs.
 Implemented drill-throughs and interactivity for deeper insights.
-View Project
 
-### Contact
-Feel free to connect with me on LinkedIn or Email if you’d like to collaborate or discuss any of the projects.
+[View Project]
+
+## Contact
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/christopher-g-mumford/) or [Email](mailto:ChrisMumford1993@gmail.com).
+
 
