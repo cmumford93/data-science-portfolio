@@ -1,7 +1,9 @@
-
-
 # Data Science & Quantitative Finance Portfolio
-Welcome to my portfolio! Here, I showcase various projects that demonstrate my skills in data science, machine learning, and quantitative finance. Each project is designed to solve real-world problems and is accompanied by a detailed explanation of the methods used and results obtained.
+
+Welcome to my portfolio! 
+
+Here, I showcase various projects that demonstrate my skills in data science, machine learning, quantitative finance and in the deployment  of data-driven web apps into production. 
+Each project is designed to solve real-world problems and is accompanied by a detailed explanation of the methods used and results obtained.
 
 ## About Me
 I hold a Master's degree in Applied Statistics and have experience in software engineering, machine learning, and finance. My portfolio highlights my ability to apply statistical models, machine learning, and data-driven techniques to solve complex problems in finance, business, and beyond.
@@ -40,8 +42,7 @@ Visualized predictions with historical sales.
 
 [View Project](data-science-portfolio/projects/store_sales_forecasting)
 
-## Contact
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/christopher-g-mumford/) or [Email](mailto:ChrisMumford1993@gmail.com).
+
 
 
 
@@ -54,7 +55,8 @@ Highlights:
 Built a credit risk model using Logistic Regression, Random Forest, and XGBoost.
 Handled imbalanced data using SMOTE.
 Evaluated model performance using AUC, Precision-Recall, and ROC Curves.
-View Project
+
+[View Project](data-science-portfolio/projects/portfolio_optimization)
 
 ### 5. Real Estate Price Prediction (Regression)
 Skills: Regression, Data Preprocessing, Feature Engineering
@@ -66,7 +68,7 @@ Performed web scraping to collect real estate data.
 Implemented regression models (Linear Regression, Decision Trees, Random Forest).
 Evaluated model performance using RMSE, MAE, and R².
 
-View Project
+[View Project](data-science-portfolio/projects/portfolio_optimization)
 
 ### 6. Algorithmic Trading Strategy
 Skills: Quantitative Finance, Backtesting, Algorithmic Trading
@@ -78,7 +80,7 @@ Developed a technical trading strategy based on popular financial indicators.
 Backtested the strategy using Backtrader.
 Calculated performance metrics like Sharpe Ratio and drawdowns.
 
-View Project
+[View Project](data-science-portfolio/projects/portfolio_optimization)
 
 ### 7. Data Visualization Dashboard (Power BI)
 Skills: Data Visualization, Business Intelligence, Storytelling with Data
@@ -90,7 +92,7 @@ Cleaned and transformed data using SQL and Python.
 Built visualizations such as bar charts, line graphs, and KPIs.
 Implemented drill-throughs and interactivity for deeper insights.
 
-[View Project]
+[View Project](data-science-portfolio/projects/portfolio_optimization)
 
 ## Contact
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/christopher-g-mumford/) or [Email](mailto:ChrisMumford1993@gmail.com).
