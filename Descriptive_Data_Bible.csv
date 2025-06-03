@@ -1,0 +1,66 @@
+Column Name,Data Type,Description
+app_id,int64,Unique identifier for the game on Steam.
+about_the_game,object,Detailed summary or marketing description of the game.
+achievements_total,float64,Total number of Steam achievements available in the game.
+background_image,object,URL of the background image used on the Steam store page.
+categories,object,"Gameplay features or categories (e.g., single-player, co-op)."
+coming_soon,object,Boolean indicating whether the game is listed as coming soon.
+content_descriptors,object,"Steam content descriptors (e.g., violence, language)."
+controller_support,object,"Level of controller support (e.g., full, partial)."
+detailed_description,object,Full HTML description from the Steam store.
+developer,object,Primary developer name as listed by Steam.
+developers,object,List of developers (may include multiple if applicable).
+discount_percent,float64,Current discount percentage if on sale.
+dlc_count,float64,Number of downloadable content (DLC) items for the game.
+dlc_list,object,List of Steam app IDs for DLCs.
+first_movie_url,object,URL of the first gameplay or trailer video.
+first_screenshot_url,object,URL of the first screenshot displayed on Steam.
+genres,object,"List of game genres (e.g., Action, Strategy)."
+header_image,object,URL of the main header image for the Steam store listing.
+legal_notice,object,Legal notices or disclaimers provided by the developer.
+metacritic_score,float64,Metacritic score aggregated from critic reviews.
+metacritic_url,object,URL linking to the Metacritic page.
+movies_count,float64,Number of promotional videos available.
+name,object,Official title of the game.
+package_groups,object,Information on Steam package bundles.
+pc_requirements_min,object,Minimum PC requirements for the game.
+pc_requirements_rec,object,Recommended PC requirements for the game.
+platforms,object,"List of platforms supported (e.g., Windows, macOS, Linux)."
+platforms_linux,object,Boolean indicating support for Linux.
+platforms_mac,object,Boolean indicating support for macOS.
+platforms_windows,object,Boolean indicating support for Windows.
+price_currency,object,"Currency code used for pricing (e.g., USD)."
+price_final,float64,Final price in cents after discount (Steam internal format).
+price_initial,float64,Original price in cents before any discount.
+price_usd_final,float64,Final price in USD after discount.
+price_usd_original,float64,Original price in USD before any discount.
+publisher,object,Primary publisher name listed on Steam.
+publishers,object,List of publisher names.
+recommendations,float64,Detailed recommendation data (structure may vary).
+recommendations_total,float64,Total number of user recommendations.
+release_date,object,Date the game was released or made available.
+required_age,int64,Minimum age requirement to purchase or play.
+screenshots_count,float64,Total number of screenshots available.
+short_description,object,Short description from the Steam store.
+steam_url,object,Full URL to the game's Steam store page.
+support_email,object,Email provided for customer support.
+support_url,object,URL to the game’s support or FAQ page.
+supported_languages,object,List of supported languages.
+tags,float64,Tags or labels associated with the game.
+type,object,"Type of Steam listing (e.g., game, DLC, bundle)."
+website,object,Official website of the game or developer.
+steamspy_name,object,Game name as listed in SteamSpy.
+steamspy_developer,object,Developer name according to SteamSpy.
+steamspy_publisher,object,Publisher name according to SteamSpy.
+steamspy_score_rank,float64,Overall rank based on positive reviews.
+steamspy_positive,int64,Number of positive reviews.
+steamspy_negative,int64,Number of negative reviews.
+steamspy_average_playtime,float64,Average playtime (in minutes).
+steamspy_median_playtime,float64,Median playtime (in minutes).
+steamspy_owners,object,"Estimated ownership range as string (e.g., '20,000 .. 50,000')."
+steamspy_owners_low,float64,Parsed lower bound of ownership estimate.
+steamspy_owners_high,float64,Parsed upper bound of ownership estimate.
+steamspy_owners_mid,float64,Calculated midpoint of ownership estimate.
+steamspy_players_forever,float64,Number of unique players since launch (SteamSpy).
+steamspy_players_2weeks,float64,Number of unique players in the last 2 weeks.
+steamspy_ccu,int64,Concurrent users playing the game at time of scraping.
